@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.alshorts",
+    "sha256_cert_fingerprints":
+    ["EE:5A:92:B9:02:AC:35:11:48:27:47:98:72:3B:F9:8F:97:6A:E7:E1:8E:EA:3C:27:63:97:31:6E:5B:67:01:12"]
+  }
+}]
